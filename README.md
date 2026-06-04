@@ -12,13 +12,6 @@
 
 ---
 
-### 👋 About Me
-
-Passionate computer science student at **1337 (42 Network)**, with a strong foundation in low-level programming, algorithms, and software design. I've built a deep understanding of system internals through intensive C and C++ projects, while also exploring automation and modern development tools.
-
-Curious, adaptable, and driven to learn — I'm eager to contribute to real-world projects as an intern or junior developer.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -45,36 +38,7 @@ Curious, adaptable, and driven to learn — I'm eager to contribute to real-worl
 
 ---
 
-### 🎓 42 / 1337 — ysouhail
 
-<div align="center">
-
-[![42 Profile](https://badge.mediaplus.ma/darkblue/ysouhail)](https://profile.intra.42.fr/users/ysouhail)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🎓 Education
-
-**1337 Coding School / 42 Network** — Tetouan, Morocco *(Dec 2023 – Present)*
-Project-based, peer-to-peer learning. Strengthened programming, problem-solving, and teamwork through intensive hands-on projects in a self-directed environment.
-
-**High School Diploma** — Sciences Physics *(2017 – 2020)*
-
----
 
 <div align="center">
 
