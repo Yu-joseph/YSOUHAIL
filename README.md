@@ -4,10 +4,6 @@
 
 **Computer Science Graduate · 1337 / 42 Network · Morocco**
 
-[![Email](https://img.shields.io/badge/youssefsouhail288@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youssefsouhail288@gmail.com)
-[![Location](https://img.shields.io/badge/Martil,_Tetouan-Morocco-green?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Tetouan)
-[![Phone](https://img.shields.io/badge/+212_770603855-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+212770603855)
-
 </div>
 
 ---
