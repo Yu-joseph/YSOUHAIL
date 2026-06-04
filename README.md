@@ -45,45 +45,13 @@ Curious, adaptable, and driven to learn — I'm eager to contribute to real-worl
 
 ---
 
-### 🚀 Projects
+### 🎓 42 / 1337 — ysouhail
 
-#### 🎮 [TicTacChampionship](https://github.com/youssefsouhail288)
-> Real-time multiplayer Tic-Tac-Toe web application with a full tournament system.
+<div align="center">
 
-- Online lobby with active user visibility
-- Bracket-style competitive tournament mode
-- Real-time communication & game state synchronization
-- **Stack:** React, Node.js, Docker, WebSockets
+[![42 Profile](https://badge.mediaplus.ma/darkblue/ysouhail)](https://profile.intra.42.fr/users/ysouhail)
 
----
-
-#### 🛒 [Automated Etsy Market Research Tool](https://github.com/youssefsouhail288)
-> Python automation script for identifying low-competition, high-ranking Etsy products.
-
-- Scrapes product listings and seller data using **Selenium**
-- Flags items that rank high but have few reviews (untapped markets)
-- Exports results to CSV for trend analysis
-- **Stack:** Python, Selenium
-
----
-
-#### 🐺 [WolfMan 2D — Unreal Engine](https://itch.io)
-> 2D platformer built during a game jam using Unreal Engine & Blueprints.
-
-- Designed and implemented core gameplay mechanics (movement, interaction)
-- Delivered under tight game jam deadlines
-- Published on **itch.io**
-- **Stack:** Unreal Engine, Blueprints
-
----
-
-#### 👻 [L3moum 2D — Unity](https://itch.io)
-> 2D game co-developed within 48 hours during a game jam.
-
-- Complete playable experience delivered under strict time constraints
-- Demonstrated rapid prototyping and teamwork
-- Published on **itch.io**
-- **Stack:** Unity, C#
+</div>
 
 ---
 
